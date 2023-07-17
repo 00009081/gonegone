@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_user" transform="translate(-1561 -38)">
+    <rect id="사각형_168" data-name="사각형 168" width="24" height="24" transform="translate(1561 38)" fill="none"/>
+    <g id="icon_user-2" data-name="icon_user" transform="translate(1308.882 -365.857)">
+      <circle id="타원_1" data-name="타원 1" cx="3.995" cy="3.995" r="3.995" transform="translate(259.146 413.239) rotate(-67.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="패스_6" data-name="패스 6" d="M255.585,425.941V422.56c0-2.23,5.176-4.185,8.878-4.185,4.523,0,8.82,2.3,8.82,4.24v3.326" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
